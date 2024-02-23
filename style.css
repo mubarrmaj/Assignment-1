@@ -1,0 +1,58 @@
+*{
+    scroll-behavior: smooth;
+}
+
+#main{
+    background-color: rgb(217, 238, 225);
+}
+
+hr{
+    text-align: center;
+    width: 50%;
+    border-color: rgb(4, 165, 106);
+    height: 2px;
+}
+#header{
+    margin: 15px;
+    padding: 20px;
+}
+
+#header ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+#header li a{
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    color: rgb(15, 67, 50);
+}
+
+.section{
+    margin: 15px;
+    padding: 15px;
+}
+
+.section h2{
+    display: flex;
+    justify-content: center;
+}
+
+#para1{
+    text-align: center;
+    color: rgb(75, 81, 83);
+}
+
+img{
+    margin: 5px 5px;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+
+#para2{
+    margin: 20px;
+}
